@@ -62,6 +62,6 @@ This project uses the following third-party libraries, tools, and resources:
 - [SupeRails](https://superails.com/)
 - [Tailwind UI](https://tailwindui.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
-- [Stimulus Dropdown](https://github.com/hotwired/stimulus/tree/main/packages/dropdown)
+- [Stimulus Dropdown](https://www.stimulus-components.com/docs/stimulus-dropdown)
 
 We would like to thank the developers and maintainers of these projects for their hard work and contributions to the open-source community.
