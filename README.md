@@ -51,3 +51,17 @@ To contribute to this project, follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+
+## Contact Information
+
+If you have any questions or concerns about this project, please contact the project maintainers at naijeria@mamatech.co.ke
+
+## Acknowledgements
+
+This project uses the following third-party libraries, tools, and resources:
+- [SupeRails](https://superails.com/)
+- [Tailwind UI](https://tailwindui.com/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Stimulus Dropdown](https://github.com/hotwired/stimulus/tree/main/packages/dropdown)
+
+We would like to thank the developers and maintainers of these projects for their hard work and contributions to the open-source community.
